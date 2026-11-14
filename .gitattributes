@@ -1,0 +1,7 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+
+# preserve the source specification's encoding, line endings and hash
+/html/*.html -text
+/html/*.htm -text

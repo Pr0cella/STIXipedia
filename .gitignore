@@ -1,0 +1,20 @@
+# generated references, backups and run metadata
+/markdown/*
+!/markdown/.gitkeep
+/META.md
+/html/*.fetch.json
+/html/*.part
+/html/.*.tmp
+
+# local Python files and environment settings
+__pycache__/
+*.py[cod]
+/.venv/
+/.env
+/.env.*
+
+# editor and operating system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
