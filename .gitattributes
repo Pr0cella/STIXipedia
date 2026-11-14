@@ -5,3 +5,6 @@
 # preserve the source specification's encoding, line endings and hash
 /html/*.html -text
 /html/*.htm -text
+
+# exclude bundled HTML from language statistics
+html/stix-v2.1-os.html linguist-vendored
