@@ -1,6 +1,6 @@
 # STIXipedia
 
-![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white) ![STIX 2.1](https://img.shields.io/badge/STIX-2.1-005A9C) [![Code license: MIT](https://img.shields.io/badge/Code_license-MIT-green)](LICENSE)
+![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white) ![STIX 2.1](https://img.shields.io/badge/STIX-2.1-005A9C) [![Code license: MIT](https://img.shields.io/badge/Code_license-MIT-green)](LICENSE) ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 The STIX 2.1 specification, easier to read and search. STIXipedia converts the
 official OASIS HTML into an indexed Markdown file or an Obsidian vault, using
